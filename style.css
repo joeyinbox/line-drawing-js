@@ -68,6 +68,9 @@ li {
 li:nth-child(2) {
 	border-radius: 200px;
 }
+li:nth-child(3) {
+	border-radius: 20px;
+}
 #bar {
 	text-align: center;
 }
