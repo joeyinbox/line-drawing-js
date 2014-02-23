@@ -1,0 +1,73 @@
+.hide {
+	opacity: 0;
+}
+
+svg.animated-line-svg {
+	position: absolute;
+}
+
+svg.animated-line-svg path {
+	fill: none;
+	stroke: #D9D9D9;
+	stroke-width: 3;
+}
+
+svg.animated-line-svg path.line-round {
+	stroke-linecap: round;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* The code below is just for the purpose of the demo */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	width: 100%;
+	background-color: #F2F2F2;
+}
+h1 {
+	text-align: center;
+	margin-top: 100px;
+	font-size: 5em;
+}
+h2 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 3em;
+}
+p {
+	margin: 10px 0;
+}
+#foo {
+	background-color: #2399DE;
+	margin: 50px 0;
+	padding: 50px 5%;
+	text-align: center;
+	color: #fff;
+	font-size: 2em;
+}
+li {
+	list-style: none;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	background-color: #2399DE;
+	margin: 0 10px;
+}
+li:nth-child(2) {
+	border-radius: 200px;
+}
+#bar {
+	text-align: center;
+}
