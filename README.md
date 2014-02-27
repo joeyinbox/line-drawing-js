@@ -3,7 +3,7 @@ line-drawing-js
 
 Automatic line drawing animation of elements on load
 
-### [Demo](http://joeyclouvel.com/lab/line-drawing-js/)
+### [Demo](http://lab.joeyclouvel.com/line-drawing-js/)
 
 Background
 -------------
