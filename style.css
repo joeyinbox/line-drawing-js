@@ -74,3 +74,18 @@ li:nth-child(3) {
 #bar {
 	text-align: center;
 }
+a {
+	text-decoration: none;
+	color: #222C31;
+}
+a:hover, a:active {
+	text-decoration: underline;
+}
+#github {
+	text-align: center;
+	margin-top: 40px;
+}
+#github a:first-child {
+	background: url('github.png') no-repeat;
+	padding-left: 20px;
+}
